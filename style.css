@@ -1,0 +1,239 @@
+*{
+    margin: 0;
+    margin: 0;
+}
+#header{
+    position: relative;
+}
+#first-img{
+    max-width: 100%;
+}
+#sunnyside{ 
+    position: absolute;
+    padding: 20px;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size :30px;
+    top: 0px;
+
+}
+.topline{
+    position: absolute;
+    right: 45px;
+    top: 2%;
+    color: white;
+}
+#about ,#services,#projects,#contact
+{
+    padding: 40px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+#about:hover, #services:hover,#projects:hover,#contact:hover{
+    background-color: rgba(255,255,255,1);
+   border-radius: 60px;
+    box-sizing:inherit;
+    color: black;
+    text-shadow: rgba(255, 205, 215, 0.164);
+}
+
+#heading-one{
+    position:absolute;
+    text-align: center;
+    color: white;
+    width: 100%;
+    top: 220px;
+    font-family:serif;
+    letter-spacing: 10px;
+    font-weight:bold;
+}
+#down-arrow{
+     position: absolute;
+     color: white;
+     top: 380px;
+     left: 50%;
+}
+.level-two-left{
+    position: relative;
+    top: -150px;
+    display: inline-block;
+    width: 50.50%;
+}
+.egg{
+    display: flex;
+    max-width: 100%;
+}
+#egg{
+    position: relative;
+    top:-5px;
+    display: inline-block;
+
+     width: 49.20%; 
+    
+} 
+#heading-second{
+    padding-left:60px ;
+    font-family: serif;
+    font-size: 40px;
+    font-weight: 900;
+}
+#para-one{
+    padding-left: 60px;
+    font-family: sans-serif;
+    color: gray;
+    font-size: 25px;
+}
+#learn-more{
+    padding-left: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;
+    text-decoration-color: yellow;
+}
+#learnmore{
+    padding-left: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;
+    text-decoration-color: rgb(212, 71, 52);
+}
+#cup{
+    position: relative;
+    top: -12px;
+    width: 50.80%;
+}
+#level-three-right{
+   
+    
+    display: inline-block;
+    position: relative;
+    top:-150px;
+
+  }
+
+  #heading-third{
+    padding-left: 60px;
+    font-size: 40px;
+    font-family: serif;
+  }
+  #para-two{
+    padding-left: 60px;
+    font-family: sans-serif;
+    color: gray;
+    font-size: 25px;
+
+  }
+  
+ #cherry{
+    position: relative;
+    top: -20px;
+    display: inline-block;
+    width: 50.50%;
+}
+#orange{
+    position: relative;
+    top: -30px;
+    display: inline-block;
+    width: 49.20%;
+} 
+#level-four-left{
+    position: relative;
+    top: -200px;
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+    color: green;
+}
+#heading-four{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#para-third{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#level-four-right{
+    position: relative;
+    top: -200px;
+    display: inline-block;
+    width: 49%;
+    text-align: center;
+    color: blue;
+}
+
+#heading-five{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgba(22, 103, 103, 0.831);
+}
+#para-four{
+    font-size: 20px ;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(22, 103, 103, 0.831);
+}
+#comment-heading{
+    text-align: center;
+    color: gray;
+    font-family:  serif;
+    letter-spacing: 3px;
+}
+.comments{
+    display: inline-block;
+    padding: 50px;
+    padding-top: 50px;
+    text-align: center;
+    width: 25%;
+}
+.comment-image{
+    border-radius: 50%;
+}
+.comment-para{
+      color: dimgray;
+      font-family:  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      font-size: 15px;
+}
+.name{
+    font-size: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+}
+.position{
+    color:darkgray;
+    font-family: 'calibri';
+}
+.main{
+    display: flex;
+    max-width: 100%;
+}
+#img-one ,#img-two,#img-three,#img-four{
+    width: 25%;
+}
+#footer{
+    background-color: rgba(36, 177, 163, 0.658);
+}
+#footer-heading{
+    color: rgba(9, 69, 64, 0.744);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-size: 30px;
+}
+.F-links{
+    text-align: center;
+    padding: 40px;
+    color:  rgba(9, 69, 64, 0.744);
+    text-decoration: none;
+    font-size: 20px;
+    nav-down: root;
+    font-weight: 900;
+}
+.a{
+    text-align: center;
+}
+.icon{
+     text-align: center
+    position;
+    top: 70px;
+    padding: 10px;
+}
